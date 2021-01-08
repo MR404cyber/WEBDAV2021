@@ -81,7 +81,7 @@ echo "http://windmillsandporcupines.co.za"VULN
 echo "http://crimsonmonkeyweb.com"VULN
 echo
 echo $red "MASUKIN TARGET ASU!!!"
-echo $green "╭─"$blue"DEMON|TEAM"$cyan" ~/RABBIT-ST"$white
+echo $green "╭─"$blue"DEMON|TEAM"$cyan" ~/TARAKAN-TEAM-IT"$white
 read -p " ╰─$ "  target
 echo
 echo $red "Masukan Script!!! "

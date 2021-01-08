@@ -35,7 +35,7 @@ toilet -f future "    DIPES" | lolcat
 echo
 echo $red"##########################$green" hello_madafaka "$red###########################"
 echo $yellow
-figlet -f future "TARAKAN-TEAM"
+figlet -f future "TARAKAN-TEAM-IT"
 echo
 echo $red"##########################$green" hello_madafaka "$red###########################"
 echo
